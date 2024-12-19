@@ -1,0 +1,14 @@
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\bin\Debug\net8.0\Lessons 2.0.exe
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\bin\Debug\net8.0\Lessons 2.0.deps.json
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\bin\Debug\net8.0\Lessons 2.0.runtimeconfig.json
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\bin\Debug\net8.0\Lessons 2.0.dll
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\bin\Debug\net8.0\Lessons 2.0.pdb
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.AssemblyInfoInputs.cache
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.AssemblyInfo.cs
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.csproj.CoreCompileInputs.cache
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.dll
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\refint\Lessons 2.0.dll
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.pdb
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\Lessons 2.0.genruntimeconfig.cache
+C:\Users\amonr\OneDrive\Рабочий стол\qurs\Lessons 2.0\Lessons 2.0\obj\Debug\net8.0\ref\Lessons 2.0.dll
